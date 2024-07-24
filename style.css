@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+
+.container {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', Helvetica, sans-serif ;
+    text-transform: uppercase;
+}
+
+img {
+    border: solid 5px white;
+    width: 100%;
+    align-content: center;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
